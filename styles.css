@@ -59,7 +59,7 @@
 
 #section2
 {
-    background-color: rgb(43, 40, 40);
+    background-color: #212529;
     color: #F8F2EA;
 }
 .iig
@@ -79,6 +79,11 @@
 {
     text-align: center;
     padding: 7% 7%;
+    transition: transform .3s;
+}
+.column:hover 
+{
+    transform: scale(1.19);
 }
 /* h2
 {
@@ -94,6 +99,8 @@ h3
     line-height: 1.5;
     font-weight: 600;
 }
+
+
 
 
 
@@ -182,7 +189,7 @@ h3
 #section5
 {
     text-align: center;
-    background-color: rgb(43, 40, 40);
+    background-color: #212529;
 }
 .s
 {
