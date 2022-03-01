@@ -23,7 +23,7 @@
 .ig
 {
     height: 250px;
-    margin: 20px 20px 20px 100px;
+    margin: 20px 20px 20px 1px;
     border-radius: 1rem;
 }
 .nav-link
@@ -98,6 +98,15 @@ h3
     font-size: 1.4rem;
     line-height: 1.5;
     font-weight: 600;
+}
+.images
+{
+    text-decoration: none;
+    color: #F8F2EA;
+}
+.images:hover
+{
+    color: #F8F2EA;
 }
 
 
